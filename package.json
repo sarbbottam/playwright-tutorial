@@ -1,0 +1,12 @@
+{
+  "name": "playwright-tutorial",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Getting started with Playwright, a node library to automate Chromium, Firefox and WebKit browsers",
+  "repository": "git@github.com:sarbbottam/playwright-tutorial.git",
+  "author": "Sarbbottam Bandyopadhyay",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^0.9.21"
+  }
+}
